@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shahidul5/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/shahidul5/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -33,4 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shahidul5/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shahidul5/LeetCode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shahidul5/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
